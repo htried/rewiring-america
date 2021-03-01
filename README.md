@@ -6,9 +6,9 @@ This directory contains data from the US Census American Housing Survey and scri
 To run the scripts, do the following:
 1) navigate to a terminal
 2) cd into this directory
-3) create a venv called `renewing_america` by running `python3 -m venv renewing_america`
-4) activate a virtual environment by running `source renewing_america/bin/activate`
-5) ensure that jupyter notebook and pandas are installed by running `pip install jupyter notebook` and `pip install pandas`
+3) create a venv called `rewiring_america` by running `python3 -m venv rewiring_america`
+4) activate a virtual environment by running `source rewiring_america/bin/activate`
+5) ensure that dependencies are installed by running `pip install -r requirements.txt`
 6) run the command `jupyter notebook` to open the .ipynb file in a browser
 7) run whatever analysis you like on the data
 
