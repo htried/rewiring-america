@@ -1,5 +1,5 @@
-Renewing America Data Analysis README:
-by Hal Triedman
+## Renewing America Data Analysis README:
+### by Hal Triedman
 
 This directory contains data from the US Census American Housing Survey and scripts to analyze that data. It is for the Renewing America electrification project.
 
